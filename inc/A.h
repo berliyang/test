@@ -1,3 +1,4 @@
+
 // test!!!
 #ifndef A_H_
 #define A_H_
@@ -347,3 +348,6 @@ namespace KDTreeSpace {
 }
 
 #endif //A_H_
+=======
+//test!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+>>>>>>> 6e813af388b0f392a3249f57fe3ab13017d6f2ad
