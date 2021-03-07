@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 // test!!!
+=======
+// test local
+>>>>>>> cc761ccb82c9d62e6c1749759ecd207f09096e12
 #ifndef A_H_
 #define A_H_
 #include <vector>
 #include <cmath>
+<<<<<<< HEAD
 namespace KDTreeSpace{};
 extern std::vector<int> visit;
 extern const double PI;
@@ -344,6 +349,11 @@ namespace KDTreeSpace {
 
         Point<T> *topPoint = NULL;
     };
+=======
+
+void char(){
+visit.clear();
+>>>>>>> cc761ccb82c9d62e6c1749759ecd207f09096e12
 }
 
 #endif //A_H_
