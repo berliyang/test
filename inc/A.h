@@ -346,4 +346,6 @@ namespace KDTreeSpace {
     };
 }
 
+void char(){}
+
 #endif //A_H_
